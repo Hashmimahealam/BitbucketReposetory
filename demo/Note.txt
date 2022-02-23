@@ -1,0 +1,26 @@
+reference : 
+to create project :-https://start.spring.io/
+to learn :-https://www.youtube.com/watch?v=3bjGfHx5mrk&list=PLzS3AYzXBoj9Gpuo_EpyaZ8mGKExfLM8c
+           and   https://www.youtube.com/watch?v=xKuerkzUIF4
+repository:-https://bitbucket.org/dashboard/repositories
+
+Note:- To access our application server I had used Postman(http://localhost:8080/emp/Aalam) (/emp class level and /Aalam method level which is name)
+o/p:on console
+called controller
+called service
+called DAO
+called controller
+called service
+called DAO
+called controller
+called service
+called DAO
+    
+Why we need junit testing:- If there are 8 members in a team and all are working on other layers.
+ Now let's condider I am working on Service layer and have to start my task than I will create my functionality and 
+ test it with the help of junit testing 
+ see in both tests I am able to test my own layer functionality without touching other layer
+ For Example:-
+ EmployeeServiceTest give output(after running junit test) as :- called service
+ only output of service and no other layer get or involve
+ 
